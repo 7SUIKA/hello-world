@@ -1,2 +1,2 @@
 # hello-world
-Ferris' first Gitub repository.
+Ferris' first Github repository.
